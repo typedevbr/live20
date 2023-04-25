@@ -32,3 +32,9 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+@media (min-width: 1440px) {
+  body {
+    font-size: 18px;
+  }
+}
